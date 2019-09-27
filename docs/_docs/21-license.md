@@ -1,7 +1,7 @@
 ---
 title: "License"
 permalink: /docs/license/
-excerpt: "License for Last Hit."
+excerpt: "License for Last Hit"
 last_modified_at: 2018-01-10T11:22:01-05:00
 ---
 
