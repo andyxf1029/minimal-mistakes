@@ -11,20 +11,27 @@ excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
 feature_row:
-    - image_path: /assets/images/startup.png
+  - image_path: /assets/images/startup.png
     alt: "customizable"
-    title: "Quick-Start Guide"
-    excerpt: "5 min How to use it"
-    url: "/quick-start/"
-  - image_path: /assets/images/file1.png
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Document"
-    excerpt: "detail document for all the features"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
-  - image_path: /assets/images/jigsaw.png
-    title: "Integration"
-    excerpt: "Integration with ecosystem"
-    url: "/docs/layouts/"    
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
