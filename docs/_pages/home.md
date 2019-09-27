@@ -16,17 +16,20 @@ feature_row:
     excerpt: "5 min How to use it"
     url: "/docs/configuration/"
 
+
   - image_path: /assets/images/file1.png
     alt: "fully responsive"
     title: "Document"
     excerpt: "detail document for all the features"
     url: "/docs/layouts/"
 
+
   - image_path: /assets/images/jigsaw.png
     alt: "100% free"
     title: "Integration"
     excerpt: "Integration with ecosystem"
     url: "/docs/license/"
+   
    
 ---
 
