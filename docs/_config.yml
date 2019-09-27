@@ -13,10 +13,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Last Hit"
 title_separator          : "-"
-subtitle                 : "last-hit team""
+subtitle                 : "last-hit team"
 name                     : &name "Last-hit-team" # &name is a YAML anchor which can be *referenced later
 description              : &description "First automation testing tool design for all team members"
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.last-hit.com
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
