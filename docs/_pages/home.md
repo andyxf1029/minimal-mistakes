@@ -5,7 +5,7 @@ header:
   # overlay_color: "#5e616c"
   overlay_image: /assets/images/unsplash-image-2.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> Get Started"
       url: "/docs/quick-start-guide/"
 excerpt: >
   First automation testing tool design for all team members<br/>
@@ -15,7 +15,6 @@ feature_row:
     title: "Quick-Start Guide"
     excerpt: "5 min How to use it"
     url: "/docs/configuration/"
-
 
   - image_path: /assets/images/file1.png
     alt: "fully responsive"
