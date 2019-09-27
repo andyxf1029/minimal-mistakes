@@ -30,7 +30,7 @@ feature_row:
     excerpt: "Integration with ecosystem"
     url: "/docs/license/"
    
-   
+
 ---
 
 {% include feature_row %}
