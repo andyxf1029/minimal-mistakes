@@ -22,7 +22,6 @@ feature_row:
     excerpt: "detail document for all the features"
     url: "/docs/layouts/"
 
-
   - image_path: /assets/images/jigsaw.png
     alt: "100% free"
     title: "Integration"
