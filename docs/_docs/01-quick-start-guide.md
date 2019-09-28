@@ -98,7 +98,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 Congratulations! You have just successfully created and executed your first test case.
 
-For further instructions and help, please refer to Katalon User Guide or Katalon Forum.
+For further instructions and help, please refer to last-hit User Guide or last-hit Forum.
 
 ## Resources for Learning LAST-HIT
 
