@@ -1,4 +1,4 @@
-# LAST-HIT-quick-start
+# last-hit-quick-start
 
 Last-hit is an automation testing solution aimed at development and operations teams.
 It is focus on chromium, gives you broad, deep and exact control over your web apps automation testing
@@ -7,7 +7,7 @@ A quick guide to set up and start your first automation test with last-hit, a fr
 
 Read [full guideline](https://last-hit.org/docs/tutorial/user-guide) here.
 
-# Last-hit provide these main features:
+# Features:
 
 - `Record` - Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps.
 - `Replay` - 
@@ -92,17 +92,17 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 –  Click ok to start replay.
 
-![](/docs/_docs/media/replay2.png) 
-
 ![](/docs/_docs/media/replay3.png)
+
+![](/docs/_docs/media/replay2.png) 
 
 Congratulations! You have just successfully created and executed your first test case.
 
 For further instructions and help, please refer to last-hit User Guide or last-hit Forum.
 
-## Resources for Learning LAST-HIT
+## Resources for Learning last-hit
 
-- [last-hit.org/docs](https://last-hit.org/docs) - all of LAST-HIT's documentation
+- [last-hit.org/docs](https://last-hit.org/docs) - all of last-hit's documentation
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
 - [puppeteer/docs](https://github.com/GoogleChrome/puppeteer/tree/master/docs) - all of Puppeteer's documentation
 
