@@ -75,7 +75,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 ![](/media/replay1.png) 
 
 –  Click ok to start replay.
-![](../../media/replay2.png) 
+![](/docs/_docs/media/replay2.png) 
 ![](/media/replay3.png)
 
 Congratulations! You have just successfully created and executed your first test case.
