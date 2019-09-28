@@ -12,11 +12,11 @@ Read [full guideline](https://last-hit.org/docs/tutorial/user-guide) here.
 Last-hit provide these main features:
 
 - `Record` - Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps.
-- `Replay` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `Parameterization` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `Assertion` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `Monitor` - A web page to render. This is the app's **renderer process**.
-- `Reporting` - A web page to render. This is the app's **renderer process**.
+- `Replay` - 
+- `Parameterization` - 
+- `Assertion` - 
+- `Monitor` - 
+- `Reporting` - 
 
 You can learn more about each of these features within the [User Guide](https://last-hit.org/docs/tutorial/user-guide).
 
@@ -75,7 +75,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 ![](/media/replay1.png) 
 
 –  Click ok to start replay.
-![](/media/replay2.png) 
+![](../../media/replay2.png) 
 ![](/media/replay3.png)
 
 Congratulations! You have just successfully created and executed your first test case.
