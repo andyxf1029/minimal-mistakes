@@ -12,7 +12,7 @@ toc: true
 # last-hit-quick-start
 
 Last-hit is an automation testing solution aimed at development and operations teams.
-It is focus on chromium, gives you broad, deep and exact control over your web apps automation testing
+It is focus on web test, gives you broad, deep and exact control over your web apps automation testing
 
 A quick guide to set up and start your first automation test with last-hit, a free test automation tool built on top of electron and puppeteer. You now can begin automation testing on web & mobile with the least amount of effort. Free download at [site](www.last-hit.com).
 
