@@ -73,11 +73,11 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 ![](/docs/_docs/media/workspacePage5.PNG) 
 
-–  Click Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps. Provide start url and device
+–  Click Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps. Provide start url and device, click OK of Record dialog when you start recording.
 
 ![](/docs/_docs/media/record1.PNG) 
 
-–  Let's create a simple script by going to Google Search and searching for some keywords as illustrated on the screen above. Click OK of Record dialog when you start recording.
+–  Let's create a simple script by going to Google Search and searching for some keywords as illustrated on the screen above. 
 
 ![](/docs/_docs/media/record2.PNG) 
 
@@ -85,7 +85,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 –  Click the stop button from the main Toolbar to stop recording, captured actions and objects are generated in last-hit.
 
-![](/docs/_docs/media/record5.png) 
+![](/docs/_docs/media/record5.PNG) 
 
 –  Now you can click on replay command from the main Toolbar to execute the script.
 ![](/docs/_docs/media/replay1.png) 
