@@ -12,7 +12,7 @@ toc: true
 # last-hit-quick-start
 
 Last-hit is an automation testing solution aimed at development and operations teams.
-It is focus on web test, gives you broad, deep and exact control over your web apps automation testing
+It is focused on web test, gives you broad, deep and exact control over your web apps automation testing
 
 A quick guide to set up and start your first automation test with last-hit, a free test automation tool built on top of electron and puppeteer. You now can begin automation testing on web & mobile with the least amount of effort. Free download at [site](www.last-hit.com).
 
@@ -31,7 +31,13 @@ You can learn more about each of these features within the [User Guide](https://
 
 ## To Use
 
+
+### install from the application
+
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+
+### install from  source code 
 
 ```bash
 # Clone this repository
@@ -46,17 +52,17 @@ npm install
 cd render
 # Install dependencies
 npm install
-# Back to the root directory of repository
+# Back to the root directory of the repository
 cd ../
 # Run the app
 npm run start
 ```
 
-Note: If you want use Installation package, please download [Release Package](https://last-hit.org/release/download) or package by yourself. [How to package](https://last-hit.org/docs/tutorial/user-guide/howToPackage)
+Note: If you want to use the Installation package, please download [Release Package](https://last-hit.org/release/download) or package by yourself. [How to package](https://last-hit.org/docs/tutorial/user-guide/howToPackage)
 
 ## Create your first Test Case
 
-–  Select option to create new workspace from the main page
+–  Select the option to create a new workspace from the main page
 
 <figure>
   <img src="{{ '/assets/images/mainPage.png' | relative_url }}" alt="teaser image example">
@@ -64,7 +70,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 </figure>
 
 
-–  Provide the name and location to create new workspace
+–  Provide the name and location to create a new workspace
 
 
 <figure>
@@ -72,7 +78,7 @@ Note: If you want use Installation package, please download [Release Package](ht
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
-–  Click [create new one] option to create new story.
+–  Click [create a new one] option to create a new story.
 
 
 <figure>
@@ -88,7 +94,7 @@ Note: If you want use Installation package, please download [Release Package](ht
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
-–  A new story will be created accordingly. The story is also displayed. then click [create new one] option to create new flow.
+–  A new story will be created accordingly. The story is also displayed. then click [create new one] option to create a new flow.
 
 
 <figure>
@@ -104,7 +110,7 @@ Note: If you want use Installation package, please download [Release Package](ht
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
-–  You can compose the flow by recording, replaying or manually editing test steps. For now, let's quickly generate the test script using Record feature. Click on the Record icon from the main Toolbar.
+–  You can compose the flow by recording, replaying or manually editing test steps. For now, let's quickly generate the test script using the Record feature. Click on the Record icon from the Main Toolbar.
 
 
 <figure>
@@ -112,7 +118,7 @@ Note: If you want use Installation package, please download [Release Package](ht
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
-–  Click Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps. Provide start url and device, click OK of Record dialog when you start recording.
+–  Click Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps. Provide start URL and device, click OK of Record dialog when you start recording.
 
 
 <figure>
@@ -134,7 +140,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 </figure>
 
 
-–  Click the stop button from the main Toolbar to stop recording, captured actions and objects are generated in last-hit.
+–  Click the stop button from the Main Toolbar to stop recording, captured actions and objects are generated in last-hit.
 
 
 <figure>
@@ -166,7 +172,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 Congratulations! You have just successfully created and executed your first test case.
 
-For further instructions and help, please refer to last-hit User Guide or last-hit Forum.
+For further instructions and help, please refer to Last-Hit User Guide or last-hit Forum.
 
 ## Resources for Learning last-hit
 
