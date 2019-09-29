@@ -58,45 +58,45 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 –  Select option to create new workspace from the main page
 
-![](/assets/images/mainPage.PNG) 
+![](/assets/images/mainPage.png) 
 
 –  Provide the name and location to create new workspace
 
-![](/assets/images/mainPage2.PNG) 
+![](/assets/images/mainPage2.png) 
 
 –  Click [create new one] option to create new story.
 
-![](/assets/images/workspacePage1.PNG) 
+![](/assets/images/workspacePage1.png) 
 
 –  Provide the name for your story then click OK.
 
-![](/assets/images/workspacePage2.PNG) 
+![](/assets/images/workspacePage2.png) 
 
 –  A new story will be created accordingly. The story is also displayed. then click [create new one] option to create new flow.
 
-![](/assets/images/workspacePage3.PNG) 
+![](/assets/images/workspacePage3.png) 
 
 –  Provide the name for your flow then click OK.
 
-![](/assets/images/workspacePage4.PNG) 
+![](/assets/images/workspacePage4.png) 
 
 –  You can compose the flow by recording, replaying or manually editing test steps. For now, let's quickly generate the test script using Record feature. Click on the Record icon from the main Toolbar.
 
-![](/assets/images/workspacePage5.PNG) 
+![](/assets/images/workspacePage5.png) 
 
 –  Click Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps. Provide start url and device, click OK of Record dialog when you start recording.
 
-![](/assets/images/record1.PNG) 
+![](/assets/images/record1.png) 
 
 –  Let's create a simple script by going to Google Search and searching for some keywords as illustrated on the screen above. 
 
-![](/assets/images/record2.PNG) 
+![](/assets/images/record2.png) 
 
-![](/assets/images/record4.PNG) 
+![](/assets/images/record4.png) 
 
 –  Click the stop button from the main Toolbar to stop recording, captured actions and objects are generated in last-hit.
 
-![](/assets/images/record5.PNG) 
+![](/assets/images/record5.png) 
 
 –  Now you can click on replay command from the main Toolbar to execute the script.
 ![](/assets/images/replay1.png) 
