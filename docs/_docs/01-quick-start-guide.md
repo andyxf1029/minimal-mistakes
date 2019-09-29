@@ -78,7 +78,7 @@ Note: If you want to use the Installation package, please download [Release Pack
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
-–  Click [create a new one] option to create a new story.
+–  Click [create new one] option to create a new story.
 
 
 <figure>
