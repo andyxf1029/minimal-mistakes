@@ -68,7 +68,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/mainPage2.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/mainPage-2.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -76,7 +76,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/workspacePage1.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/workspacePage-1.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -84,7 +84,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/workspacePage2.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/workspacePage-2.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -92,7 +92,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/workspacePage3.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/workspacePage-3.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -100,7 +100,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/workspacePage4.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/workspacePage-4.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -108,7 +108,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/workspacePage5.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/workspacePage-5.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -116,7 +116,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/record1.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/record-1.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -124,12 +124,12 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/record2.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/record-2.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/record4.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/record-4.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
@@ -138,7 +138,7 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 
 <figure>
-  <img src="{{ '/assets/images/record5.png' | relative_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/record-5.png' | relative_url }}" alt="teaser image example">
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
