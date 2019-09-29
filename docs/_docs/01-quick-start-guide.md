@@ -34,10 +34,16 @@ You can learn more about each of these features within the [User Guide](https://
 
 ### install from the application
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+#### Mac
+[Mac download]()
 
+#### Windows
+
+[Windows download]()
 
 ### install from  source code 
+
+To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -78,7 +84,7 @@ Note: If you want to use the Installation package, please download [Release Pack
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
-–  Click [create a new one] option to create a new story.
+–  Click [create new one] option to create a new story.
 
 
 <figure>
