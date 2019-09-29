@@ -58,6 +58,11 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 –  Select option to create new workspace from the main page
 
+<figure>
+  <img src="{{ '/assets/images/mainPage.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 ![](/assets/images/mainPage.png) 
 
 –  Provide the name and location to create new workspace
