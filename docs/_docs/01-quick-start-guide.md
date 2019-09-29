@@ -58,54 +58,54 @@ Note: If you want use Installation package, please download [Release Package](ht
 
 –  Select option to create new workspace from the main page
 
-![](/docs/_docs/media/mainPage.PNG) 
+![](/assets/images/mainPage.PNG) 
 
 –  Provide the name and location to create new workspace
 
-![](/docs/_docs/media/mainPage2.PNG) 
+![](/assets/images/mainPage2.PNG) 
 
 –  Click [create new one] option to create new story.
 
-![](/docs/_docs/media/workspacePage1.PNG) 
+![](/assets/images/workspacePage1.PNG) 
 
 –  Provide the name for your story then click OK.
 
-![](/docs/_docs/media/workspacePage2.PNG) 
+![](/assets/images/workspacePage2.PNG) 
 
 –  A new story will be created accordingly. The story is also displayed. then click [create new one] option to create new flow.
 
-![](/docs/_docs/media/workspacePage3.PNG) 
+![](/assets/images/workspacePage3.PNG) 
 
 –  Provide the name for your flow then click OK.
 
-![](/docs/_docs/media/workspacePage4.PNG) 
+![](/assets/images/workspacePage4.PNG) 
 
 –  You can compose the flow by recording, replaying or manually editing test steps. For now, let's quickly generate the test script using Record feature. Click on the Record icon from the main Toolbar.
 
-![](/docs/_docs/media/workspacePage5.PNG) 
+![](/assets/images/workspacePage5.PNG) 
 
 –  Click Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps. Provide start url and device, click OK of Record dialog when you start recording.
 
-![](/docs/_docs/media/record1.PNG) 
+![](/assets/images/record1.PNG) 
 
 –  Let's create a simple script by going to Google Search and searching for some keywords as illustrated on the screen above. 
 
-![](/docs/_docs/media/record2.PNG) 
+![](/assets/images/record2.PNG) 
 
-![](/docs/_docs/media/record4.PNG) 
+![](/assets/images/record4.PNG) 
 
 –  Click the stop button from the main Toolbar to stop recording, captured actions and objects are generated in last-hit.
 
-![](/docs/_docs/media/record5.PNG) 
+![](/assets/images/record5.PNG) 
 
 –  Now you can click on replay command from the main Toolbar to execute the script.
-![](/docs/_docs/media/replay1.png) 
+![](/assets/images/replay1.png) 
 
 –  Click ok to start replay.
 
-![](/docs/_docs/media/replay3.png)
+![](/assets/images/replay3.png)
 
-![](/docs/_docs/media/replay2.png) 
+![](/assets/images/replay2.png) 
 
 Congratulations! You have just successfully created and executed your first test case.
 
