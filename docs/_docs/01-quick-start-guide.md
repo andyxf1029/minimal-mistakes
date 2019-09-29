@@ -63,54 +63,106 @@ Note: If you want use Installation package, please download [Release Package](ht
   <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
 </figure>
 
-![](/assets/images/mainPage.png) 
 
 –  Provide the name and location to create new workspace
 
-![](/assets/images/mainPage2.png) 
+
+<figure>
+  <img src="{{ '/assets/images/mainPage2.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  Click [create new one] option to create new story.
 
-![](/assets/images/workspacePage1.png) 
+
+<figure>
+  <img src="{{ '/assets/images/workspacePage1.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  Provide the name for your story then click OK.
 
-![](/assets/images/workspacePage2.png) 
+
+<figure>
+  <img src="{{ '/assets/images/workspacePage2.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  A new story will be created accordingly. The story is also displayed. then click [create new one] option to create new flow.
 
-![](/assets/images/workspacePage3.png) 
+
+<figure>
+  <img src="{{ '/assets/images/workspacePage3.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  Provide the name for your flow then click OK.
 
-![](/assets/images/workspacePage4.png) 
+
+<figure>
+  <img src="{{ '/assets/images/workspacePage4.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  You can compose the flow by recording, replaying or manually editing test steps. For now, let's quickly generate the test script using Record feature. Click on the Record icon from the main Toolbar.
 
-![](/assets/images/workspacePage5.png) 
+
+<figure>
+  <img src="{{ '/assets/images/workspacePage5.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  Click Record to launch the browser. While recording, actions performed on the browser will be captured and generated into test steps. Provide start url and device, click OK of Record dialog when you start recording.
 
-![](/assets/images/record1.png) 
+
+<figure>
+  <img src="{{ '/assets/images/record1.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  Let's create a simple script by going to Google Search and searching for some keywords as illustrated on the screen above. 
 
-![](/assets/images/record2.png) 
 
-![](/assets/images/record4.png) 
+<figure>
+  <img src="{{ '/assets/images/record2.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/record4.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 –  Click the stop button from the main Toolbar to stop recording, captured actions and objects are generated in last-hit.
 
-![](/assets/images/record5.png) 
+
+<figure>
+  <img src="{{ '/assets/images/record5.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  Now you can click on replay command from the main Toolbar to execute the script.
-![](/assets/images/replay1.png) 
+
+<figure>
+  <img src="{{ '/assets/images/replay1.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 –  Click ok to start replay.
 
-![](/assets/images/replay3.png)
 
-![](/assets/images/replay2.png) 
+<figure>
+  <img src="{{ '/assets/images/replay3.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
+
+
+<figure>
+  <img src="{{ '/assets/images/replay2.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 Congratulations! You have just successfully created and executed your first test case.
 
