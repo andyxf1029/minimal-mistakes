@@ -21,13 +21,13 @@ foo:
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: /quick-start-guide/
   - title: "Doc"
-    url: /about/
+    url: /docs/structure/
   - title: "Integraiton"
-    url: /year-archive/
+    url: /categories/
   - title: "Licence"
-    url: /docs/license/
+    url: /license/
 
 
 

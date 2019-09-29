@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/unsplash-image-2.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Get Started"
-      url: "/docs/quick-start-guide/"
+      url: "/quick-start-guide/"
 excerpt: >
   First automation testing tool design for all team members<br/>
 feature_row:
@@ -14,19 +14,19 @@ feature_row:
     alt: "customizable"
     title: "Quick-Start Guide"
     excerpt: "5 min How to use it"
-    url: "/docs/configuration/"
+    url: "/quick-start-guide/"
 
   - image_path: /assets/images/file1.png
     alt: "fully responsive"
     title: "Document"
     excerpt: "detail document for all the features"
-    url: "/docs/layouts/"
+    url: "/docs/structure/"
 
   - image_path: /assets/images/jigsaw.png
     alt: "100% free"
     title: "Integration"
     excerpt: "Integration with ecosystem"
-    url: "/docs/license/"
+    url: "/license/"
    
 
 ---
