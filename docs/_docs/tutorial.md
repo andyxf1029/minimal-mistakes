@@ -8,13 +8,13 @@ redirect_from:
 toc: true
 ---
 
-# welcome to last-hit
+# Welcome to Last-Hit
 last-hit is a simple and powerful automation solution. It revolutionizes the use of open-source frameworks such as electron and puppeteer by eliminating their technical complexities to allow developers and QAs to efficiently set up, create, run, report, and manage their automated tests.
 
 # Tutorial
-last-hit team has some sample projects and documents for you to try out before testing out your own products. The Learning Center hosts tutorials for you to follow along and get to know last-hit features
+Last-Hit team has some sample projects and documents for you to try out before testing out your own products. The Learning Center hosts tutorials for you to follow along and get to know last-hit features
 
-# last-hit Documentation
+# Last-Hit Documentation
 Our documentation will help you with configurations, features utilization and important information to create a successful automation test.
 
 Test Case contains information on various components of a test case/test suite. Here, you can read more about last-hit features that will assist you during test case construction. 
@@ -42,7 +42,9 @@ Record Test with the Record Web function
 
 **Scenario**: To Login
     1. Launch the application under test (Example: http://github.com/)
+
     2. Enter a valid username, password, and click Login
+    
     3. Login successfully
 
 Follow the below steps to get familiar with the Record & Playback feature for Web UI tests
@@ -52,6 +54,14 @@ Step 1: Launch Last-Hit and click Create New Workspace on the main screen. Provi
 ![](/docs/_docs/media/tutorial/Last-Hit-WelcomePage.png) 
 
 ![](/docs/_docs/media/tutorial/Last-Hit-CreateWorkspace.png) 
+
+Step 2: Click the Create New One on left frame to create new story(test case). Provide a name for your story and click OK. An empty story will be created.
+
+![](/docs/_docs/media/tutorial/Last-Hit-CreateNewStory.png)
+
+Step 3: click the Create New One on left frame to crate new flow(set of test step). Provide a name for your flow and click ok. An empty flow will be created.
+
+![](/docs/_docs/media/tutorial/Last-Hit-CreateNewFlow.png)
 
 # GUI
 
