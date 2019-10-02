@@ -145,7 +145,9 @@ To do?
 ![](/docs/_docs/media/tutorial/Last-Hit-ReplayToolBar.png)
 
 Smart play -
-play - 
+
+play -
+ 
 Step by step - 
 
 
