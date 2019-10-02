@@ -1,5 +1,5 @@
 ---
-title: "Quick-Start Guide"
+title: "Tutorial"
 permalink: /docs/tutorial/
 excerpt: "How to use last-hit for web automation testing"
 last_modified_at: 2019-10-02T13:34:11-04:00
@@ -39,6 +39,7 @@ You can quickly automate a few functionalities of your app and save time by reco
     2. Replay test with the reocrd script.
 
 Record Test with the Record Web function
+
 **Scenario**: To Login
     1. Launch the application under test (Example: http://github.com/)
     2. Enter a valid username, password, and click Login
