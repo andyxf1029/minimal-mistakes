@@ -90,6 +90,48 @@ Step 9: Click Play to execute recorded test cases in your chromium.
 
 ![](/docs/_docs/media/tutorial/Last-Hit-StartReplay.png)
 
+The story and flow scripts whick you recorded and want to replay will store in your worksapce with json file.
+
+![](/docs/_docs/media/tutorial/Last-Hit-Script.png)
+
+```bash
+{
+	"description": "",
+	"steps": [
+		{
+			"type": "start",
+			"url": "https://github.com/login",
+			"device": {
+				"name": "iPad",
+				"userAgent": "Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+				"viewport": {
+					"width": 768,
+					"height": 1024,
+					"deviceScaleFactor": 2,
+					"isMobile": true,
+					"hasTouch": true,
+					"isLandscape": false
+				}
+			},
+			"uuid": "75714aa0-1efa-4d19-81a5-9144a58d8bdd"
+		},
+		{
+			"detail": 0,
+			"isTrusted": true,
+			"path": "//*[@id=\"login_field\"]",
+			"scrollLeft": 0,
+			"scrollTop": 0,
+			"target": "<input type=\"text\" name=\"login\" id=\"login_field\" class=\"form-control input-block\" tabindex=\"1\" autocapitalize=\"off\" autocorrect=\"off\" autofocus=\"autofocus\">",
+			"timeStamp": 4513.0450000287965,
+			"type": "focus",
+			"uuid": "75714aa0-1efa-4d19-81a5-9144a58d8bdd",
+			"value": ""
+		},
+```
+
+# What cannot be recorded?
+To do?
+
 # GUI
 
 ## workspace
