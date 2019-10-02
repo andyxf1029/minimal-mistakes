@@ -131,12 +131,18 @@ Last-Hit
 ![](/docs/_docs/media/tutorial/Last-Hit-WorkspaceWholePicture.png)
 
 
-# workspace
+# Workspace
 ![](/docs/_docs/media/tutorial/Last-Hit-Workspace.png)
 
-Story -
+New Story -
 
-Flow -
+Search Flow -
+
+Enviroments -
+
+Workspace Settings -
+
+
 
 # Record
 ![](/docs/_docs/media/tutorial/Last-Hit-RecordToolBar.png)
