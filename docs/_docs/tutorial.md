@@ -35,7 +35,9 @@ This is a basic tutorial about how to begin testing with Last-Hit. If you are co
 Test recording is the easiest way for new automation testers to start learning test automation. Identifying objects on applications is time-consuming. The Web Recorder Utility function captures your actions being performed on the application and converts them into runnable code in the back-end.
 
 You can quickly automate a few functionalities of your app and save time by recording actions that have to be performed many times in iterative builds. This function supports recording and running the same tests on chromium. This document will show you how to:
+
     1. Record test with the Record Web function.
+    
     2. Replay test with the reocrd script.
 
 Record Test with the Record Web function
@@ -80,7 +82,7 @@ Step 7: Now we have finished this flow, click Stop from the main toolbar to fini
 
 ![](/docs/_docs/media/tutorial/Last-Hit-StopRecording.png)
 
-Step 8: Click Stop close Chromium
+Step 8: Click Stop close Chromium.
 
 ![](/docs/_docs/media/tutorial/Last-Hit-StopRecordDialog.png)
 
@@ -90,7 +92,7 @@ Step 9: Click Play to execute recorded test cases in your chromium.
 
 # GUI
 
-##workspace
+## workspace
 
 story
 flow
