@@ -41,7 +41,8 @@ You can quickly automate a few functionalities of your app and save time by reco
 Record Test with the Record Web function
 
 **Scenario**: To Login
-    1. Launch the application under test (Example: http://github.com/)
+
+    1. Launch the application under test (Example: https://github.com/login)
 
     2. Enter a valid username, password, and click Login
     
@@ -62,6 +63,30 @@ Step 2: Click the Create New One on left frame to create new story(test case). P
 Step 3: click the Create New One on left frame to crate new flow(set of test step). Provide a name for your flow and click ok. An empty flow will be created.
 
 ![](/docs/_docs/media/tutorial/Last-Hit-CreateNewFlow.png)
+
+Step 4: Click Record from the main toolbar.
+
+![](/docs/_docs/media/tutorial/Last-Hit-ClickRecordButton.png)
+
+Step 5: Provide Start Url and Device whick you wanted, click Ok.
+
+![](/docs/_docs/media/tutorial/Last-Hit-StartRecordDialog.png)
+
+Step 6: Once your application has been launched, you will be directed to the Login page. Enter valid username and password, then click Login.
+
+![](/docs/_docs/media/tutorial/Last-Hit-Recording.png)
+
+Step 7: Now we have finished this flow, click Stop from the main toolbar to finish recording.
+
+![](/docs/_docs/media/tutorial/Last-Hit-StopRecording.png)
+
+Step 8: Click Stop close Chromium
+
+![](/docs/_docs/media/tutorial/Last-Hit-StopRecordDialog.png)
+
+Step 9: Click Play to execute recorded test cases in your chromium.
+
+![](/docs/_docs/media/tutorial/Last-Hit-StartReplay.png)
 
 # GUI
 
