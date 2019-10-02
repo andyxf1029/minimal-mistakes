@@ -94,7 +94,9 @@ The story and flow scripts whick you recorded and replay will store in your work
 
 ![](/docs/_docs/media/tutorial/Last-Hit-Script.png)
 
-scripts is in a very clear and readable format, You can read the JSON file to see the detailed steps of the test case.
+scripts is in a very clear and readable format, you can read the JSON file to see the detailed steps of the test case.
+
+Scripts section
 ```json
 {
 	"description": "",
@@ -136,6 +138,16 @@ scripts is in a very clear and readable format, You can read the JSON file to se
 To do?
 
 # GUI
+
+
+# Replay
+
+![](/docs/_docs/media/tutorial/Last-Hit-ReplayToolBar.png)
+
+Smart play -
+play - 
+Step by step - 
+
 
 ## workspace
 
