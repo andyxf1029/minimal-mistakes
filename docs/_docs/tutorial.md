@@ -53,50 +53,38 @@ Record Test with the Record Web function
 Follow the below steps to get familiar with the Record & Playback feature for Web UI tests
 
 Step 1: Launch Last-Hit and click Create New Workspace on the main screen. Provide a name and location for your workspace and click OK. An empty workspace will be created.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-WelcomePage.png) 
 
 ![](/docs/_docs/media/tutorial/Last-Hit-CreateWorkspace.png) 
 
 Step 2: Click the Create New One on left frame to create new story(test case). Provide a name for your story and click OK. An empty story will be created.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-CreateNewStory.png)
 
 Step 3: click the Create New One on left frame to crate new flow(set of test step). Provide a name for your flow and click ok. An empty flow will be created.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-CreateNewFlow.png)
 
 Step 4: Click Record from the main toolbar.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-ClickRecordButton.png)
 
 Step 5: Provide Start Url and Device whick you wanted, click Ok.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-StartRecordDialog.png)
 
 Step 6: Once your application has been launched, you will be directed to the Login page. Enter valid username and password, then click Login.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-Recording.png)
 
 Step 7: Now we have finished this flow, click Stop from the main toolbar to finish recording.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-StopRecording.png)
 
 Step 8: Click Stop close Chromium.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-StopRecordDialog.png)
 
 Step 9: Click Play to execute recorded test cases in your chromium.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-StartReplay.png)
 
 The story and flow scripts whick you recorded and replay will store in your worksapce with json file.
-
 ![](/docs/_docs/media/tutorial/Last-Hit-Script.png)
 
-scripts is in a very clear and readable format, you can read the JSON file to see the detailed steps of the test case.
-
-Scripts section
+Scripts is in a very clear and readable format, you can read the JSON file to see the detailed steps of the test case.
 ```json
 {
 	"description": "",
@@ -139,47 +127,60 @@ To do?
 
 # GUI
 
+Last-Hit 
+![](/docs/_docs/media/tutorial/Last-Hit-WorkspaceWholePicture.png)
+
+
+# workspace
+![](/docs/_docs/media/tutorial/Last-Hit-Workspace.png)
+
+Story -
+
+Flow -
+
+# Record
+![](/docs/_docs/media/tutorial/Last-Hit-RecordToolBar.png)
+
+Start record - 
+
+Pause record -
+
+Stop record -
 
 # Replay
-
 ![](/docs/_docs/media/tutorial/Last-Hit-ReplayToolBar.png)
 
 Smart play -
 
 play -
- 
+
 Step by step - 
 
+# Step
+![](/docs/_docs/media/tutorial/Last-Hit-StepToolBar.png)
 
-## workspace
+Assertion - 
 
-story
-flow
-step
-assert
-condition
-request
+Condition -
 
+Breakpoint - 
 
-#record
-resume
-stop
-add assert
-add condition
-move step
+Move up -
 
-replay
-replay all
-replay step by step
-add breakpoint
+Move down -
 
-#ci
+Free Move - 
+
+Delete -
+
+# CI Integration
+
 how to run it in nodejs
 CI report
 code coverage
 how to run it in jenkins
 
-#exception
+# Exception
 
 how to find issue log and send to us
 
