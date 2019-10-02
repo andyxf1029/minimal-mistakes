@@ -90,11 +90,12 @@ Step 9: Click Play to execute recorded test cases in your chromium.
 
 ![](/docs/_docs/media/tutorial/Last-Hit-StartReplay.png)
 
-The story and flow scripts whick you recorded and want to replay will store in your worksapce with json file.
+The story and flow scripts whick you recorded and replay will store in your worksapce with json file.
 
 ![](/docs/_docs/media/tutorial/Last-Hit-Script.png)
 
-```bash
+scripts is in a very clear and readable format, You can read the JSON file to see the detailed steps of the test case.
+```json
 {
 	"description": "",
 	"steps": [
@@ -126,7 +127,9 @@ The story and flow scripts whick you recorded and want to replay will store in y
 			"type": "focus",
 			"uuid": "75714aa0-1efa-4d19-81a5-9144a58d8bdd",
 			"value": ""
-		},
+		}
+    ]
+}
 ```
 
 # What cannot be recorded?
