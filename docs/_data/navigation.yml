@@ -23,9 +23,9 @@ main:
   - title: "Quick-Start Guide"
     url: /quick-start-guide/
   - title: "Doc"
-    url: /docs/structure/
-  - title: "Integraiton"
-    url: /categories/
+    url: /docs/tutorial/
+  # - title: "Integraiton"
+  #   url: /categories/
   - title: "Licence"
     url: /license/
 
@@ -33,7 +33,7 @@ main:
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: 
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/

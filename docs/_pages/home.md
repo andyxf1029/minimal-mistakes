@@ -20,7 +20,7 @@ feature_row:
     alt: "fully responsive"
     title: "Document"
     excerpt: "detail document for all the features"
-    url: "/docs/structure/"
+    url: "/docs/tutorial/"
 
   - image_path: /assets/images/jigsaw.png
     alt: "100% free"
