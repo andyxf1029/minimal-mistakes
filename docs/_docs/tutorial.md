@@ -162,31 +162,11 @@ Workspace Settings -
 <table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-SmartReplayButton.png"></p></td><td>Smart to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ReplayButton.png"></p></td><td>Start to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StepByStepReplayButton.png"></p></td><td>Replay test case step by step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopReplayButton.png"></p></td><td>Stop replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordButton.png"></p></td><td>Start to record test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordPauseButton.png"></p></td><td>Pause recording.</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopRecordButton.png"></p></td><td>Stop Recording</td></tr></tbody></table>
 
 
-# Replay
-![](/docs/_docs/media/tutorial/Last-Hit-ReplayToolBar.png)
-
-Smart play -
-
-play -
-
-Step by step - 
-
 # Step
 ![](/docs/_docs/media/tutorial/Last-Hit-StepToolBar.png)
 
-Assertion - 
+<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-AssertionButton.png"></p></td><td>Performace assertion after the step execution in replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ConditionButton.png"></p></td><td>Perform condition check before the step exection in replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-BreakpointButton.png"></p></td><td>Add breakpoint on the step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveUpButton.png"></p></td><td>Move up the step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveDownButton.png"></p></td><td>Move down the step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveFreeeButton.png"></p></td><td>Move the step freely</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-DeleteButton.png"></p></td><td>Delete the step</td></tr></tbody></table>
 
-Condition -
-
-Breakpoint - 
-
-Move up -
-
-Move down -
-
-Free Move - 
-
-Delete -
 
 # CI Integration
 
