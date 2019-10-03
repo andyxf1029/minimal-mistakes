@@ -146,7 +146,11 @@ Last-Hit
 
 ![](/docs/_docs/media/tutorial/Last-Hit-Workspace.png)
 
-New Story -
+*New Story*
+
+![](/docs/_docs/media/tutorial/Last-Hit-NewStoryButton.png)
+
+Create an new empty story for recording test case.
 
 Search Flow -
 
@@ -159,7 +163,7 @@ Workspace Settings -
 # Toolbar
 ![](/docs/_docs/media/tutorial/Last-Hit-Toolbar.png)
 
-<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-SmartReplayButton.png"></p></td><td>Smart to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ReplayButton.png"></p></td><td>Start to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StepByStepReplayButton.png"></p></td><td>Replay test case step by step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopReplayButton.png"></p></td><td>When replaying test case step by step, stop replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordButton.png"></p></td><td>Start to record test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordPauseButton.png"></p></td><td>Pause recording.</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopRecordButton.png"></p></td><td>Stop Recording</td></tr></tbody></table>
+<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-SmartReplayButton.png"></p></td><td>Smart to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ReplayButton.png"></p></td><td>Start to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StepByStepReplayButton.png"></p></td><td>Replay test case step by step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopReplayButton.png"></p></td><td>When replaying test case step by step, stop replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordButton.png"></p></td><td>Start to record test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordPauseButton.png"></p></td><td>Pause recording.</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopRecordButton.png"></p></td><td>Stop Recording</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ShowAllStepButton.png"></p></td><td>Display all steps include request</td></tr></tbody></table>
 
 
 # Step
@@ -171,8 +175,11 @@ Workspace Settings -
 # CI Integration
 
 how to run it in nodejs
+
 CI report
+
 code coverage
+
 how to run it in jenkins
 
 # Exception
