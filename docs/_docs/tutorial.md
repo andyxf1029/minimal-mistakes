@@ -156,17 +156,10 @@ Workspace Settings -
 
 
 
-# Record
-![](/docs/_docs/media/tutorial/Last-Hit-RecordToolBar.png)
+# Toolbar
+![](/docs/_docs/media/tutorial/Last-Hit-Toolbar.png)
 
-Start record - 
-
-Pause record -
-
-Stop record -
-
-
-<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordButton.png"></p></td><td>Start to record test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordPauseButton.png"></p></td><td>Pause recording.</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopRecordButton.png"></p></td><td>Stop Recording</td></tr></tbody></table>
+<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-SmartReplayButton.png"></p></td><td>Smart to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ReplayButton.png"></p></td><td>Start to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StepByStepReplayButton.png"></p></td><td>Replay test case step by step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopReplayButton.png"></p></td><td>Stop replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordButton.png"></p></td><td>Start to record test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordPauseButton.png"></p></td><td>Pause recording.</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopRecordButton.png"></p></td><td>Stop Recording</td></tr></tbody></table>
 
 
 # Replay
