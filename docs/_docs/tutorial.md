@@ -186,3 +186,7 @@ how to run it in jenkins
 
 how to find issue log and send to us
 
+# Last-Hit Roadmap
+
+![](/docs/_docs/media/tutorial/Last-Hit-FunctionRoadmap.png)
+
