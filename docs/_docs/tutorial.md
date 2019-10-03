@@ -152,13 +152,21 @@ Last-Hit
 
 Create an new empty story for recording test case.
 
-Search Flow -
+*Search Flow*
 
-Enviroments -
+![](/docs/_docs/media/tutorial/Last-Hit-SearchFlowButton.png)
 
-Workspace Settings -
+Search the flow you wanted.
 
+*Enviroments*
 
+![](/docs/_docs/media/tutorial/Last-Hit-EnviromentsButton.png)
+
+Config env variables for record and replay 
+
+*Workspace Settings*
+
+![](/docs/_docs/media/tutorial/Last-Hit-WorkspaceSettingsButton.png)
 
 # Toolbar
 ![](/docs/_docs/media/tutorial/Last-Hit-Toolbar.png)
