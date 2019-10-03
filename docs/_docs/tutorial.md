@@ -156,7 +156,7 @@ Create an new empty story for recording test case.
 
 ![](/docs/_docs/media/tutorial/Last-Hit-SearchFlowButton.png)
 
-Search the flow you wanted.
+Search the flow which you wanted.
 
 *Enviroments*
 
@@ -165,6 +165,8 @@ Search the flow you wanted.
 Config env variables for record and replay 
 
 *Workspace Settings*
+
+Configure the workspace as you request
 
 ![](/docs/_docs/media/tutorial/Last-Hit-WorkspaceSettingsButton.png)
 
