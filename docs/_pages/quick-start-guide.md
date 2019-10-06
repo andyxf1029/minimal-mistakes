@@ -16,7 +16,7 @@ It is focused on web test, gives you broad, deep and exact control over your web
 
 A quick guide to set up and start your first automation test with last-hit, a free test automation tool built on top of electron and puppeteer. You now can begin automation testing on web & mobile with the least amount of effort. Free download at [site](www.last-hit.com).
 
-Read [full guideline](https://last-hit.org/docs/tutorial/user-guide) here.
+Read [full guideline](https://last-hit.org/docs/tutorial) here.
 
 # Features:
 
@@ -27,7 +27,7 @@ Read [full guideline](https://last-hit.org/docs/tutorial/user-guide) here.
 - `Monitor` - 
 - `Reporting` - 
 
-You can learn more about each of these features within the [User Guide](https://last-hit.org/docs/tutorial/user-guide).
+You can learn more about each of these features within the [User Guide](https://last-hit.org/docs/tutorial).
 
 ## To Use
 

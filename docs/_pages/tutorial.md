@@ -54,9 +54,20 @@ Follow the below steps to get familiar with the Record & Playback feature for We
 
 Step 1: Launch Last-Hit and click Create New Workspace on the main screen. Provide a name and location for your workspace and click OK. An empty workspace will be created.
 
-![](/docs/_docs/media/tutorial/Last-Hit-WelcomePage.png) 
 
-![](/docs/_docs/media/tutorial/Last-Hit-CreateWorkspace.png) 
+
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-WelcomePage.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
+
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-CreateWorkspace.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
+
 
 Step 2: Click the Create New One on left frame to create new story(test case). Provide a name for your story and click OK. An empty story will be created.
 
@@ -173,13 +184,28 @@ Configure the workspace as you request
 # Toolbar
 ![](/docs/_docs/media/tutorial/Last-Hit-Toolbar.png)
 
-<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-SmartReplayButton.png"></p></td><td>Smart to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ReplayButton.png"></p></td><td>Start to replay test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StepByStepReplayButton.png"></p></td><td>Replay test case step by step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopReplayButton.png"></p></td><td>When replaying test case step by step, stop replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordButton.png"></p></td><td>Start to record test case</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordPauseButton.png"></p></td><td>Pause recording.</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopRecordButton.png"></p></td><td>Stop Recording</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ShowAllStepButton.png"></p></td><td>Display all steps include request</td></tr></tbody></table>
+<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-SmartReplayButton.png"></p></td><td>Smart to replay test case</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ReplayButton.png"></p></td><td>Start to replay test case</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StepByStepReplayButton.png"></p></td><td>Replay test case step by step</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopReplayButton.png"></p></td><td>When replaying test case step by step, stop replaying</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordButton.png"></p></td><td>Start to record test case</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-RecordPauseButton.png"></p></td><td>Pause recording.</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopRecordButton.png"></p></td><td>Stop Recording</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ShowAllStepButton.png"></p></td><td>Display all steps include request</td></tr></tbody></table>
 
 
 # Step
 ![](/docs/_docs/media/tutorial/Last-Hit-StepToolBar.png)
 
-<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-AssertionButton.png"></p></td><td>Performace assertion after the step execution in replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ConditionButton.png"></p></td><td>Perform condition check before the step exection in replaying</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-BreakpointButton.png"></p></td><td>Add breakpoint on the step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveUpButton.png"></p></td><td>Move up the step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveDownButton.png"></p></td><td>Move down the step</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveFreeButton.png"></p></td><td>Move the step freely</td></tr><tr><td><p><img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-DeleteButton.png"></p></td><td>Delete the step</td></tr></tbody></table>
+<table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-AssertionButton.png"></p></td><td>Performace assertion after the step execution in replaying</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ConditionButton.png"></p></td><td>Perform condition check before the step exection in replaying</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-BreakpointButton.png"></p></td><td>Add breakpoint on the step</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveUpButton.png"></p></td><td>Move up the step</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveDownButton.png"></p></td><td>Move down the step</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-MoveFreeButton.png"></p></td><td>Move the step freely</td></tr><tr><td><p>
+<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-DeleteButton.png"></p></td><td>Delete the step</td></tr></tbody></table>
 
 
 # CI Integration
