@@ -1,6 +1,6 @@
 ---
 title: "Tutorial"
-permalink: /docs/tutorial/
+permalink: /tutorial/
 excerpt: "How to use last-hit for web automation testing"
 last_modified_at: 2019-10-02T13:34:11-04:00
 redirect_from:

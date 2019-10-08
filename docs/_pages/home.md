@@ -20,13 +20,13 @@ feature_row:
     alt: "fully responsive"
     title: "Document"
     excerpt: "detail document for all the features"
-    url: "/docs/tutorial/"
+    url: "/tutorial/"
 
   - image_path: /assets/images/jigsaw.png
     alt: "100% free"
     title: "Integration"
     excerpt: "Integration with ecosystem"
-    url: "/license/"
+    url: "/ci/"
    
 
 ---

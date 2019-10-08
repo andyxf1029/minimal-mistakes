@@ -23,9 +23,9 @@ main:
   - title: "Quick-Start Guide"
     url: /quick-start-guide/
   - title: "Doc"
-    url: /docs/tutorial/
-  # - title: "Integraiton"
-  #   url: /categories/
+    url: /tutorial/
+  - title: "Integraiton"
+    url: /ci/
   - title: "Licence"
     url: /license/
 
