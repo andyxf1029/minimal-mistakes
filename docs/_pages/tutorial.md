@@ -71,39 +71,79 @@ Step 1: Launch Last-Hit and click Create New Workspace on the main screen. Provi
 
 Step 2: Click the Create New One on left frame to create new story(test case). Provide a name for your story and click OK. An empty story will be created.
 
-![](/docs/_docs/media/tutorial/Last-Hit-CreateNewStory.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-CreateNewStory.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Step 3: click the Create New One on left frame to crate new flow(set of test step). Provide a name for your flow and click ok. An empty flow will be created.
 
-![](/docs/_docs/media/tutorial/Last-Hit-CreateNewFlow.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-CreateNewFlow.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Step 4: Click Record from the main toolbar.
 
-![](/docs/_docs/media/tutorial/Last-Hit-ClickRecordButton.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-ClickRecordButton.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Step 5: Provide Start Url and Device whick you wanted, click Ok.
 
-![](/docs/_docs/media/tutorial/Last-Hit-StartRecordDialog.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-StartRecordDialog.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Step 6: Once your application has been launched, you will be directed to the Login page. Enter valid username and password, then click Login.
 
-![](/docs/_docs/media/tutorial/Last-Hit-Recording.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-Recording.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Step 7: Now we have finished this flow, click Stop from the main toolbar to finish recording.
 
-![](/docs/_docs/media/tutorial/Last-Hit-StopRecording.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-StopRecording.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Step 8: Click Stop close Chromium.
 
-![](/docs/_docs/media/tutorial/Last-Hit-StopRecordDialog.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-StopRecordDialog.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
+
+
 
 Step 9: Now you can just click Play to execute recorded test cases in your chromium. It's as simple as that
 
-![](/docs/_docs/media/tutorial/Last-Hit-StartReplay.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-StartReplay.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
+
 
 The story and flow scripts whick you recorded and replay will store in your worksapce with json file.
 
-![](/docs/_docs/media/tutorial/Last-Hit-Script.png)
+
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-Script.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Scripts is in a very clear and readable format, you can read the JSON file to see the detailed steps of the test case.
 
@@ -150,28 +190,48 @@ To do?
 # GUI
 Last-Hit 
 
-![](/docs/_docs/media/tutorial/Last-Hit-WorkspaceWholePicture.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-WorkspaceWholePicture.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 
 # Workspace
 
-![](/docs/_docs/media/tutorial/Last-Hit-Workspace.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-Workspace.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 *New Story*
 
-![](/docs/_docs/media/tutorial/Last-Hit-NewStoryButton.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-NewStoryButton.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Create an new empty story for recording test case.
 
 *Search Flow*
 
-![](/docs/_docs/media/tutorial/Last-Hit-SearchFlowButton.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-SearchFlowButton.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Search the flow which you wanted.
 
 *Enviroments*
 
-![](/docs/_docs/media/tutorial/Last-Hit-EnviromentsButton.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-EnviromentsButton.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 Config env variables for record and replay 
 
@@ -179,13 +239,21 @@ Config env variables for record and replay
 
 Configure the workspace as you request
 
-![](/docs/_docs/media/tutorial/Last-Hit-WorkspaceSettingsButton.png)
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-WorkspaceSettingsButton.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
+
 
 # Toolbar
-![](/docs/_docs/media/tutorial/Last-Hit-Toolbar.png)
+
+<figure>
+  <img src="{{ '/assets/images/Last-Hit-Toolbar.png' | relative_url }}" alt="teaser image example">
+  <!-- <figcaption>Example of teaser images found in the related posts module.</figcaption> -->
+</figure>
 
 <table><thead><tr><th>Icon</th><th>Description</th></tr></thead><tbody><tr><td><p>
-<img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-SmartReplayButton.png"></p></td><td>Smart to replay test case</td></tr><tr><td><p>
+<img src="{{ '/assets/images/Last-Hit-SmartReplayButton.png' | relative_url }}" alt="teaser image example"></p></td><td>Smart to replay test case</td></tr><tr><td><p>
 <img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-ReplayButton.png"></p></td><td>Start to replay test case</td></tr><tr><td><p>
 <img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StepByStepReplayButton.png"></p></td><td>Replay test case step by step</td></tr><tr><td><p>
 <img src="https://github.com/andyxf1029/minimal-mistakes/blob/master/docs/_docs/media/tutorial/Last-Hit-StopReplayButton.png"></p></td><td>When replaying test case step by step, stop replaying</td></tr><tr><td><p>
